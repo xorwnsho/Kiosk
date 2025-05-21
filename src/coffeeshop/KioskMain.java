@@ -1,6 +1,6 @@
 package coffeeshop;
 
-public class Kiosk {
+public class KioskMain {
     public static void main(String[] args) {
         Drink[] drinks = new Drink[5];
         Drink drink = new Drink();
